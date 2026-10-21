@@ -17,7 +17,7 @@ Website source: `docs/`, published at https://wedocare-global.com/. See [WEBSITE
 
 ## Version
 
-**v1.0.0 — Revenue Global Control Platform (rgcp)**  
+**Portal publication: v1.0.0 — Revenue Global Control Platform (RGCP)**  
 Global market publication: `we-do-care-global.github.io/we-do-care-global/`
 
 ---
@@ -55,17 +55,20 @@ Live Portal: **[we-do-care-global.github.io/we-do-care-global](https://we-do-car
                    └──────────────┘       └─────────────────┘
 ```
 
-### Version Matrix (v1.0.0)
+### Project publication matrix (versions vary by project)
+
+**Evidence scope:** DOI identifiers below are drawn from [EVIDENCE.md](EVIDENCE.md), last API-verified on 2026-10-08; they have **not** been revalidated in this documentation-only change. A published DOI documents a deposit, not production readiness, certification, a working backend, or an uptime guarantee. Linked project surfaces may be static demonstrations. See [STATUS.md](STATUS.md) and [WEBSITE_AUDIT_FIXES.md](WEBSITE_AUDIT_FIXES.md) for verification boundaries.
+
 
 | Project | Version | Live URL | DOI |
 |---------|---------|----------|-----|
 | We Do Care Global (Portal) | v1.0.0 | https://wedocare-global.com/ | 10.5281/zenodo.23217953 |
-| FoundationCentar | v1.0.0 | https://foundationcentar-demo-rkwero.v2.appdeploy.ai/ | 10.5281/zenodo.23073888 |
-| AgentEval | v0.1.1 | https://we-do-care-global.github.io/agent-eval/ | 10.5281/zenodo.22983602 |
-| AgentGuard | v0.1.0 | https://we-do-care-global.github.io/agentguard/ | 10.5281/zenodo.22983601 |
-| AgentVault | See publication record | https://we-do-care-global.github.io/agentvault/ | 10.5281/zenodo.22983557 |
-| Hybrid-RAG NeMo | See publication record | https://we-do-care-global.github.io/enterprise-hybrid-rag/ | 10.5281/zenodo.22945802 |
-| Pharma OS (FDA) | v0.1.0 | https://we-do-care-global.github.io/pharma-intelligence-os/ | 10.5281/zenodo.22983604 |
+| FoundationCentar | v0.1.0 (Zenodo metadata contains `vv0.1.0` typo) | https://foundationcentar-demo-rkwero.v2.appdeploy.ai/ | 10.5281/zenodo.23073888 |
+| AgentEval | v0.1.0 (last API-verified record) | https://we-do-care-global.github.io/agent-eval/ | 10.5281/zenodo.22945804 |
+| AgentGuard | v0.1.0 | https://we-do-care-global.github.io/agentguard/ | 10.5281/zenodo.22945778 |
+| AgentVault | v0.1.3 (last API-verified record) | https://we-do-care-global.github.io/agentvault/ | 10.5281/zenodo.22983557 |
+| Hybrid-RAG NeMo | v0.1.0 (last API-verified record) | https://we-do-care-global.github.io/enterprise-hybrid-rag/ | 10.5281/zenodo.22945802 |
+| Pharma OS (FDA) | v0.1.1 (last API-verified record) | https://we-do-care-global.github.io/pharma-intelligence-os/ | 10.5281/zenodo.22983388 |
 
 ---
 
@@ -96,13 +99,13 @@ We Do Care Global carries a founder-level commitment to dedicate 33% of annual c
 
 ## Published DOI Records
 
-- [Project Portal](https://doi.org/10.5281/zenodo.22983603)
+- [Project Portal — canonical v1.0.0](https://doi.org/10.5281/zenodo.23217953)
 - [FoundationCentar](https://doi.org/10.5281/zenodo.23073888)
-- [AgentEval](https://doi.org/10.5281/zenodo.22983602)
-- [AgentGuard](https://doi.org/10.5281/zenodo.22983601)
+- [AgentEval](https://doi.org/10.5281/zenodo.22945804)
+- [AgentGuard](https://doi.org/10.5281/zenodo.22945778)
 - [AgentVault](https://doi.org/10.5281/zenodo.22983557)
 - [Hybrid-RAG NeMo](https://doi.org/10.5281/zenodo.22945802)
-- [Pharma OS](https://doi.org/10.5281/zenodo.22983604)
+- [Pharma OS](https://doi.org/10.5281/zenodo.22983388)
 
 ---
 
