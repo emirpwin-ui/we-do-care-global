@@ -2,6 +2,15 @@
 
 Website source: `docs/`, published at https://wedocare-global.com/. See [WEBSITE_AUDIT_FIXES.md](WEBSITE_AUDIT_FIXES.md) for the October 2026 website corrections and validation limits. Current project provenance is listed in the [evidence index](https://wedocare-global.com/evidence.html).
 
+## Technical review navigation
+
+- [Project evidence matrix](PROJECT_EVIDENCE_MATRIX.md) — DOI, demonstration, and production verification gaps.
+- [DOI registry](EVIDENCE.md) — historical publication checks and metadata issues.
+- [Public endpoint status](STATUS.md) — dated HTTP checks, not uptime monitoring.
+- [Website audit](WEBSITE_AUDIT_FIXES.md) — static validation scope and infrastructure limits.
+- [Static-site validator](scripts/check_site.py) — local reference and metadata checks.
+
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--8515--2727-brightgreen.svg)](https://orcid.org/0009-0009-8515-2727)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache%202.0)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue.svg)](https://python.org)
